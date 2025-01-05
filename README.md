@@ -1,6 +1,6 @@
 # xeMiner
 
-Open source [xehash](https://github.com/XeChain/xehash-go) miner in Go forked from [xMiner](https://github.com/CyberChainXyz/xMiner) with [stratum-jsonrpc2.0-ws](https://github.com/CyberChainXyz/stratum-jsonrpc2-ws) protocol.
+Open source [xehash](https://github.com/XeChain/xehash-go) miner in Go (forked from [xMiner](https://github.com/CyberChainXyz/xMiner)) with [stratum-jsonrpc2.0-ws](https://github.com/CyberChainXyz/stratum-jsonrpc2-ws) protocol.
 
 The OpenCL kernel code originates from [xmr-stak](https://github.com/fireice-uk/xmr-stak/tree/master/xmrstak/backend).
 
